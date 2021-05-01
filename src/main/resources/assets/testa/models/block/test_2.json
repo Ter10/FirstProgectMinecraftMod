@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "testa:blocks/test",
+    "up": "testa:blocks/test",
+    "north": "testa:blocks/test",
+    "east": "testa:blocks/test",
+    "south": "testa:blocks/test",
+    "west": "testa:blocks/test",
+    "particle": "testa:blocks/test"
+  }
+}
